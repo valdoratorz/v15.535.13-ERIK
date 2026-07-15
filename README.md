@@ -18,4 +18,4 @@ An archive of Erik Royale for Clash Royale v15.535.13
 * Erik Reis
 
 ## Who Leaked it?:
- * Erik Reis himself 🤣
+ * Erik's disciple Clasher 🤣
