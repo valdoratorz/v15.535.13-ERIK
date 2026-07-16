@@ -1,5 +1,5 @@
 # v15.535.13-ERIK
-### old source. not ready for production (typescript btw)
+### LATEST SOURCE. not ready for production
 An archive of Erik Royale for Clash Royale v15.535.13
 
 ## YOU MUST HAVE A BRAIN TO USE THIS
