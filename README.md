@@ -1,7 +1,7 @@
 # v15.535.13-ERIK
 ### LATEST SOURCE. not ready for production
 An archive of Erik Royale for Clash Royale v15.535.13
-
+![dc.png](Screens/dc.png)
 ## YOU MUST HAVE A BRAIN TO USE THIS
 
 ## Requirements
