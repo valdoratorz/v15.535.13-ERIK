@@ -1,6 +1,5 @@
 const fs = require('fs')
 const spinner = require('../Utils/json/spinner');
-const LogicSwapSpellsCommand = require("./Commands/Server/LogicSwapSpellsCommand");
 const LogicChangeAvatarNameCommand = require("./Commands/Server/LogicChangeAvatarNameCommand");
 
 class MessageFactory {
@@ -36,6 +35,5 @@ console.clear();
 
 //cmds
 //LogicChangeAvatarNameCommand.configureClient(); //name changing is now a regular message
-LogicSwapSpellsCommand.configureClient();
 
 module.exports = MessageFactory
