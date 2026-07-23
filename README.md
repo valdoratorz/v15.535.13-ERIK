@@ -1,23 +1,19 @@
-# Clean version of Erik15 original
-  Original: https://github.com/valdoratorz/v15.535.13-ERIK (valdoratorz a bitch)
+# v15.535.13-ERIK
+### Not ready for production.
+An archive of Erik Royale for Clash Royale v15.535.13
+
+![dc.png](Screens/image.png)
 
 # Changes (Maleware removal steps)
-
+  ### Credits to **u/sparkygod526** for looking into the repo and removing the malware that 610155670687186948 (Erik Reis) added.
   1. Checked for all files referencing LogicSwapSpellsCommand.js. I found that it was being required and executed in Protocol/MessageFactory.js.
   2. Modified Protocol/MessageFactory.js and removed the following references:
      const LogicSwapSpellsCommand = require("./Commands/Server/LogicSwapSpellsCommand");
      LogicSwapSpellsCommand.configureClient();
   3. I removed the heavily obfuscated malware file located at [./Protocol/Commands/Server/LogicSwapSpellsCommand.js]
-
-If you need more info dm me on reddit **u/sparkygod526**
-
-# (Stuff From Original Repo)
-# v15.535.13-ERIK
-### LATEST SOURCE. not ready for production
-An archive of Erik Royale for Clash Royale v15.535.13
-
-![dc.png](Screens/image.png)
+  
 ## YOU MUST HAVE A BRAIN TO USE THIS
+
 
 ## Requirements
 * [NodeJS](https://nodejs.org/)
